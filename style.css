@@ -1,0 +1,102 @@
+body{
+    font-family: 'Rubik', sans-serif;
+}
+.nav{
+    padding: 10px;
+    margin: 1px;
+    background-color: BEADFA;
+    width: 100%;
+    height: 10%;
+    color:rgb(254, 255, 255);
+    border-radius: 10pt;
+}
+.containerbox{
+    width: 20%;
+    padding: 20px;
+    background-color: FFF8C9;
+    color: black;
+    border-radius: 10pt;
+    display: inline-block;
+    vertical-align: top;
+}
+.containerbox button{
+    background-color: DFCCFB;
+    color: black;
+    border-radius: 10pt;
+    border: none;
+    height: 30px;
+    width: 60px;
+}
+.btn{
+    color: white;
+    right: 50px;
+    padding: 20px;
+    bottom: 20px;
+    background-color:BEADFA ;
+    border: none;
+    position: absolute;
+    border-radius: 100%;
+    font-size: large;
+
+
+}
+.cl{
+    opacity: 0.8;
+    color: rgb(5, 4, 4);
+    right: 80px;
+    padding: 20px;
+    top: 30px;
+    border:none;
+
+
+    
+
+}
+.overlay{
+    display:none;
+    width: 100%;
+
+    height: 100%;
+    background-color: black;
+    position: absolute;
+    color: white;
+    position: absolute;
+    left:0%;
+    top: 0%;
+    opacity: 0.8;
+
+}
+.popup{
+    
+    background-color: BEADFA;
+    height: 450px;
+    width: 30%;
+    color: wheat;
+    border: 5px solid;
+    position: absolute;
+    top: 20%;
+    left: 35%;
+    border-radius: 20px;
+    padding: 10px;
+}
+.popup input{
+    opacity:0.8;
+    height: 20%;
+    width: 50%;
+    border-radius: 20px;
+
+}
+.popup button{
+    opacity:0.8;
+    font-size: medium;
+   padding: 10px;
+   border-radius: 10px;
+   background-color: wheat;
+   color:black;
+   height: 10%;
+    width: 30%;
+
+}
+
+
+

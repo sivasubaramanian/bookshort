@@ -1,0 +1,43 @@
+<html>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap" rel="stylesheet">
+    <body>
+        <div class="nav">
+            <h1>Bookshort</h1>
+            
+        </div>
+        <div class="container">
+            <div class="containerbox" id="box">
+                <h2>The Positive Thinking</h2>
+                <h5>Nolan</h5>
+                <p>Lorem ipsum dol
+                 \or sit amet consectetur adipisicing elit. Quaerat temporibus pariatur, minus dignissimos consequuntur at, atque voluptatum quis, sed neque repellendus ullam assumenda sapiente perferendis quae soluta officia quos vero.</p>
+                <button id="Deletebut" onclick="delete1(event)">Delete</button>
+
+            </div>
+        </div>
+
+        <button id="add" class="btn" onclick="show()">+</button>
+        <div class="overlay">
+
+        <div class="popup">
+            <center>
+            <h1>Add Book details</h1>
+            <input type="text" id="title" class="title1" placeholder="Title">
+            <br><br>
+            <input type="text" id="author" placeholder="Author name">
+            <br><br>
+            <input type="text" id="des" placeholder="Description">
+            <br><br>
+            <button id="submit" onclick="sub1()">submit</button>
+            </div>
+            </center>
+            <button class="cl" id="close1" >Close</button>
+        </div>
+
+
+       <script src="book.js"></script> 
+    </body>
+</html>
