@@ -27,5 +27,7 @@ The application is responsive across devices, ensuring that users can access and
 # Technologies Used:
 
 HTML: The foundation of the project, providing the basic structure and content.
+
 CSS: Responsible for styling the interface, making it visually appealing and user-friendly.
+
 JavaScript: Enables dynamic content display, real-time updates, and interactive features, enhancing user experience.
