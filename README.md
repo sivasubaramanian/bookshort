@@ -31,3 +31,7 @@ HTML: The foundation of the project, providing the basic structure and content.
 CSS: Responsible for styling the interface, making it visually appealing and user-friendly.
 
 JavaScript: Enables dynamic content display, real-time updates, and interactive features, enhancing user experience.
+
+
+![image](https://github.com/sivasubaramanian/bookshort/assets/121441414/2454014d-adb7-4fe5-97b2-ae83c7418a51)
+
