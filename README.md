@@ -37,7 +37,8 @@ JavaScript: Enables dynamic content display, real-time updates, and interactive 
 ![image](https://github.com/sivasubaramanian/bookshort/assets/121441414/77a4906f-5d40-4cbf-ba3a-1d5c3ac46235)
 
 
-![image](https://github.com/sivasubaramanian/bookshort/assets/121441414/350641dd-b6fd-4064-ad69-9fc8b8ad5865)
+![image](https://github.com/sivasubaramanian/bookshort/assets/121441414/fab376c1-94b6-4cfd-96b0-adcc652cf49f)
+
 
 ![image](https://github.com/sivasubaramanian/bookshort/assets/121441414/1174bbd6-818c-4516-a1b3-887cce440db0)
 
