@@ -32,6 +32,13 @@ CSS: Responsible for styling the interface, making it visually appealing and use
 
 JavaScript: Enables dynamic content display, real-time updates, and interactive features, enhancing user experience.
 
+# Output
 
-![image](https://github.com/sivasubaramanian/bookshort/assets/121441414/2454014d-adb7-4fe5-97b2-ae83c7418a51)
+![image](https://github.com/sivasubaramanian/bookshort/assets/121441414/77a4906f-5d40-4cbf-ba3a-1d5c3ac46235)
+
+
+![image](https://github.com/sivasubaramanian/bookshort/assets/121441414/350641dd-b6fd-4064-ad69-9fc8b8ad5865)
+
+![image](https://github.com/sivasubaramanian/bookshort/assets/121441414/1174bbd6-818c-4516-a1b3-887cce440db0)
+
 
